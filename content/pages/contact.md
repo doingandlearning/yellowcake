@@ -2,8 +2,8 @@
 template: ContactPage
 slug: contact
 title: Contact Page
-featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
-subtitle: This is the contact page subtitle.
+featuredImage: 'https://ucarecdn.com/6323a8f4-6514-4978-b5e9-6080449553cc/'
+subtitle: Get in touch.
 address: '404 James St, Burleigh Heads QLD 4220'
 phone: 0987 123 456
 email: example@example.com
